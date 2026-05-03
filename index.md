@@ -44,7 +44,7 @@ Join us for the **CCFN 2026 Retreat**, a weekend of worship, fellowship, teachin
 
 [Register for the Retreat](https://afcinc.churchcenter.com/registrations/events/3241955) | [View Pepperdine University on Google Maps](https://www.google.com/maps/search/?api=1&query=Pepperdine%20University)
 
-<small>Background photo: [Malibu, California looking at the Pacific Ocean from Pepperdine University](https://commons.wikimedia.org/wiki/File:Malibu,_California_looking_at_the_Pacific_Ocean_from_Pepperdine_University.jpg), CC0 public domain.</small>
+ 
 
 ---
 
