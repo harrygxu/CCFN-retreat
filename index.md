@@ -3,7 +3,7 @@ title: CCFN 2026 Retreat
 layout: default
 ---
 
-# CCFN 2026 Retreat (华人基督徒教职员工联网2026年度退修会)
+# CCFN 2026 Retreat (华人基督徒教职员工联网2026年度退休会)
 
 ## June 12-14, 2026
 
@@ -96,7 +96,7 @@ Saturday afternoon workshop sessions:
 
 ## Contact
 
-For questions about the CCFN 2026 Retreat, please contact Program Chair [徐国庆教授](http://www.cs.ucla.edu/~harryxu), [Email](mailto:harry.g.xu@gmail.com).
+For questions about the CCFN 2026 Retreat, please contact Program Chair [徐国庆教授](http://www.cs.ucla.edu/~harryxu) through [email](mailto:harry.g.xu@gmail.com).
 
 ---
 
