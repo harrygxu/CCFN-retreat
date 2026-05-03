@@ -7,6 +7,7 @@ GitHub Pages site for the CCFN 2026 Retreat.
 - **Location:** Pepperdine University
 - **Date/Time:** June 12-14, 2026
 - **Keynote Speakers:** 张路加牧师 and Dr. Charles Lee
+- **Registration:** <https://afcinc.churchcenter.com/registrations/events/3241955>
 
 ## Website
 
