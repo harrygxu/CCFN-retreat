@@ -1,13 +1,13 @@
 ---
-title: CCFN 2026 Retreat
+title: CCFN 2026 Retreat 
 layout: default
 ---
 
-# CCFN 2026 Retreat
+# CCFN 2026 Retreat (华人教职员工联合会2026年度退修会)
 
 ## June 12-14, 2026
 
-**Location:** Pepperdine University
+**地点:** Pepperdine University
 
 Join us for the **CCFN 2026 Retreat**, a weekend of worship, fellowship, teaching, and renewal on the beautiful campus of Pepperdine University.
 
@@ -53,7 +53,7 @@ Join us for the **CCFN 2026 Retreat**, a weekend of worship, fellowship, teachin
 
 ## Retreat Schedule
 
-A full retreat schedule will be announced soon.
+A full retreat schedule is available here.
 
 | Date | Program |
 |---|---|
