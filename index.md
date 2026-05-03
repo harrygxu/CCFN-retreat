@@ -78,6 +78,20 @@ Program details from the retreat schedule:
 
 ---
 
+## Workshop Program
+
+Saturday afternoon workshop sessions:
+
+| 时间/地点：1-5:45pm | Session I: 工作 | Session II: 工作服事平衡 | Session III: 家庭 |
+|---|---|---|---|
+| 1:00-2:20pm | I.1: Tenure申请（工作，人际关系，科研，教学）- 王勉教授（UCSB） | II.1: 学生事工 - 王有芬牧师 | III.1: 找到另一半 - 陈军教授（Purdue） |
+| 2:30-2:45pm | Break | Break | Break |
+| 2:45-4:15pm | I.2: AI与信仰 - 徐国庆教授（UCLA） | II.2: 减压 - 徐红英传道 | III.2: 夫妻关系 - 凌越教授（SC） |
+| 4:15-4:30pm | Break | Break | Break |
+| 4:30-5:45pm | I.3: 教职申请 - 赵连峰教授（Clemson） | II.3: 时间管理 - 董晓渭教授（UT Arlington） | III.3: 子女教导 - Charles, Lily夫妇（Stanford） |
+
+---
+
 ## Registration
 
 [Register online for the CCFN 2026 Retreat](https://afcinc.churchcenter.com/registrations/events/3241955).
