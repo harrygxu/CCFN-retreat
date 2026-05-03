@@ -7,7 +7,7 @@ layout: default
 
 ## June 12-14, 2026
 
-**地点:** Pepperdine University
+**地点:** Pepperdine University, Malibu, California
 
 Join us for the **CCFN 2026 Retreat**, a weekend of worship, fellowship, teaching, and renewal on the beautiful campus of Pepperdine University.
 
