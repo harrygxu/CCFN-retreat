@@ -3,7 +3,7 @@ title: CCFN 2026 Retreat
 layout: default
 ---
 
-# CCFN 2026 Retreat (华人教职员工联网2026年度退修会)
+# CCFN 2026 Retreat (华人基督徒教职员工联网2026年度退修会)
 
 ## June 12-14, 2026
 
