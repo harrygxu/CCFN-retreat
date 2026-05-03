@@ -96,7 +96,7 @@ Saturday afternoon workshop sessions:
 
 ## Contact
 
-For questions about the CCFN 2026 Retreat, please contact Program Chair [徐国庆教授](mailto:harry.g.xu@gmail.com).
+For questions about the CCFN 2026 Retreat, please contact Program Chair [徐国庆教授](http://www.cs.ucla.edu/~harryxu), [Email](mailto:harry.g.xu@gmail.com).
 
 ---
 
