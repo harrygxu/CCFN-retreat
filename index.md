@@ -3,6 +3,37 @@ title: CCFN 2026 Retreat
 layout: default
 ---
 
+<style>
+body {
+  background:
+    linear-gradient(rgba(18, 33, 42, 0.58), rgba(18, 33, 42, 0.68)),
+    url("assets/img/pepperdine-campus.jpg") center top / cover fixed no-repeat;
+}
+
+.site-header,
+.site-footer {
+  background-color: rgba(255, 255, 255, 0.92);
+}
+
+.page-content > .wrapper {
+  background-color: rgba(255, 255, 255, 0.94);
+  border-radius: 8px;
+  box-shadow: 0 12px 36px rgba(0, 0, 0, 0.22);
+  padding: 2rem;
+}
+
+@media (max-width: 720px) {
+  body {
+    background-attachment: scroll;
+  }
+
+  .page-content > .wrapper {
+    border-radius: 0;
+    padding: 1.25rem;
+  }
+}
+</style>
+
 # CCFN 2026 Retreat (华人基督徒教职员工联网2026年度退休会)
 
 ## June 12-14, 2026
@@ -12,6 +43,8 @@ layout: default
 Join us for the **CCFN 2026 Retreat**, a weekend of worship, fellowship, teaching, and renewal on the beautiful campus of Pepperdine University.
 
 [Register for the Retreat](https://afcinc.churchcenter.com/registrations/events/3241955) | [View Pepperdine University on Google Maps](https://www.google.com/maps/search/?api=1&query=Pepperdine%20University)
+
+<small>Background photo: [Malibu, California looking at the Pacific Ocean from Pepperdine University](https://commons.wikimedia.org/wiki/File:Malibu,_California_looking_at_the_Pacific_Ocean_from_Pepperdine_University.jpg), CC0 public domain.</small>
 
 ---
 
