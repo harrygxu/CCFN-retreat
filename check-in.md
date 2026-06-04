@@ -59,16 +59,14 @@ body {
 
 ## Parking Passes
 
-- The parking pass for the group is attached to the check-in email. Print, distribute, and display these passes on vehicle dashboards so the Department of Public Safety recognizes each vehicle as a visitor throughout the retreat. Anyone not staying overnight can get a visitor's pass at the booth instead.
-- [Download the parking permit]({{ "/assets/permit.pdf" | relative_url }}).
+- Print, distribute, and display the [parking passes]]({{ "/assets/permit.pdf" | relative_url }}) on vehicle dashboards so the Department of Public Safety recognizes each vehicle as a visitor throughout the retreat. Anyone not staying overnight can get a visitor's pass at the booth instead.
+
 
 ## Meal Numbers
 
 - **Late Arrivals:** If the group is running behind for an allotted meal time, please call Bon Appetit at 310.506.4296 to alert them.
 
 ## Maps
-
-- A general campus map and Alumni Park map are attached to the check-in email.
 - [Download the campus map]({{ "/assets/campus-map.pdf" | relative_url }}).
 - [Download the park map]({{ "/assets/park-map.pdf" | relative_url }}).
 - Use Pepperdine's [interactive map](https://map.pepperdine.edu/) for campus navigation.
