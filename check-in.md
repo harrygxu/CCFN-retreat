@@ -70,6 +70,7 @@ body {
 
 - A general campus map and Alumni Park map are attached to the check-in email.
 - [Download the campus map]({{ "/assets/campus-map.pdf" | relative_url }}).
+- [Download the park map]({{ "/assets/park-map.pdf" | relative_url }}).
 - Use Pepperdine's [interactive map](https://map.pepperdine.edu/) for campus navigation.
 
 
