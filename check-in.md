@@ -39,6 +39,8 @@ body {
 
 [Back to retreat home]({{ "/" | relative_url }})
 
+- [Download the check-in logistics packet]({{ "/assets/check-in-logistics.pdf" | relative_url }}).
+
 ## Office Information
 
 - The Business Services Office is open Monday through Sunday, 7 AM - 10 PM. We are located in Eden Hall (21). Please contact the office at 310.506.4264 if you need assistance during your stay.
@@ -68,6 +70,7 @@ body {
 ## Maps
 
 - A general campus map and Alumni Park map are attached to the check-in email.
+- [Download the campus map]({{ "/assets/campus-map.pdf" | relative_url }}).
 - Use Pepperdine's [interactive map](https://map.pepperdine.edu/) for campus navigation.
 
 ## On-Site Contact
