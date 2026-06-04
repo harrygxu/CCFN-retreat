@@ -64,7 +64,6 @@ body {
 
 ## Meal Numbers
 
-- **Final Numbers:** Submit final meal numbers to Bon Appetit Dining Services 7 days in advance of arrival to avoid a late fee.
 - **Late Arrivals:** If the group is running behind for an allotted meal time, please call Bon Appetit at 310.506.4296 to alert them.
 
 ## Maps
@@ -73,13 +72,8 @@ body {
 - [Download the campus map]({{ "/assets/campus-map.pdf" | relative_url }}).
 - Use Pepperdine's [interactive map](https://map.pepperdine.edu/) for campus navigation.
 
-## On-Site Contact
-
-- Please provide at least one on-site contact name and phone number so the office can accurately contact the group. If there is more than one contact, send all names and phone numbers.
 
 ## Friendly Reminders
-
-- Submit the final housing chart as soon as possible so the Pepperdine team can prepare for arrival.
 - All projectors should be turned off when leaving classrooms and spaces to ensure the bulbs do not burn out.
 - Do not prop open exterior doors or open emergency doors. The Fire Safety Team will be alerted and an alarm might sound.
 - Review the attached reference sheet for specific housing, check-in/check-out, and classroom information. If any changes are needed, reach out as soon as possible so the team can better prepare for arrival. If there are any blanks on the sheet, provide the missing information.
