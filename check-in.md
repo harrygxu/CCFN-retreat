@@ -59,7 +59,7 @@ body {
 
 ## Parking Passes
 
-- Print, distribute, and display the [parking passes]]({{ "/assets/permit.pdf" | relative_url }}) on vehicle dashboards so the Department of Public Safety recognizes each vehicle as a visitor throughout the retreat. Anyone not staying overnight can get a visitor's pass at the booth instead.
+- Print, distribute, and display the [parking passes]({{ "/assets/permit.pdf" | relative_url }}) on vehicle dashboards so the Department of Public Safety recognizes each vehicle as a visitor throughout the retreat. Anyone not staying overnight can get a visitor's pass at the booth instead.
 
 
 ## Meal Numbers

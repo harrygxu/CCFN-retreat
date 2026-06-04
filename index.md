@@ -60,6 +60,7 @@ Join us for the **CCFN 2026 Retreat**, a weekend of worship, fellowship, teachin
 
 ## Latest Updates
 
+- [Check-in instructions]({{ "/check-in/" | relative_url }}) are now available, including parking passes, maps, and logistics information.
 - 需要Carpool或者可以提供Carpool的弟兄姊妹朋友们，请使用这个[Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeM5Pw6EkmJeoLwOkkT2bn8_IACLedeCxBUv238t9ZZ7cH1hQ/viewform?usp=dialog)来注册您的信息。
 
 ## Keynote Speakers
