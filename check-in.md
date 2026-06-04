@@ -58,6 +58,7 @@ body {
 ## Parking Passes
 
 - The parking pass for the group is attached to the check-in email. Print, distribute, and display these passes on vehicle dashboards so the Department of Public Safety recognizes each vehicle as a visitor throughout the retreat. Anyone not staying overnight can get a visitor's pass at the booth instead.
+- [Download the parking permit]({{ "/assets/permit.pdf" | relative_url }}).
 
 ## Meal Numbers
 
