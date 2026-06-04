@@ -42,7 +42,7 @@ body {
 
 Join us for the **CCFN 2026 Retreat**, a weekend of worship, fellowship, teaching, and renewal on the beautiful campus of Pepperdine University.
 
-[Register for the Retreat](https://afcinc.churchcenter.com/registrations/events/3241955) | [View Pepperdine University on Google Maps](https://www.google.com/maps/search/?api=1&query=Pepperdine%20University)
+[Register for the Retreat](https://afcinc.churchcenter.com/registrations/events/3241955) | [Check-In Instructions]({{ "/check-in/" | relative_url }}) | [View Pepperdine University on Google Maps](https://www.google.com/maps/search/?api=1&query=Pepperdine%20University)
 
  
 
