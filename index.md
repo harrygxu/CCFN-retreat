@@ -54,6 +54,7 @@ Join us for the **CCFN 2026 Retreat**, a weekend of worship, fellowship, teachin
 |---|---|
 | **时间** | Friday, June 12, 2026 - Sunday, June 14, 2026 |
 | **地点** | [Pepperdine University](https://www.google.com/maps/search/?api=1&query=Pepperdine%20University) |
+| **Main Program Location** | HAWC |
 | **主题** | 进入 |
 
 ---
@@ -89,6 +90,8 @@ Join us for the **CCFN 2026 Retreat**, a weekend of worship, fellowship, teachin
 
 Program details from the retreat schedule:
 
+**Main program location:** HAWC
+
 | Friday, June 12 | Program | Saturday, June 13 | Program | Sunday, June 14 | Program |
 |---|---|---|---|---|---|
 |  |  | 7:00-8:00 | 晨祷 | 7:00-8:00 | 晨祷 |
@@ -116,7 +119,7 @@ Program details from the retreat schedule:
 
 Saturday afternoon workshop sessions:
 
-| 时间/地点：1-5:45pm | Session I: 工作 | Session II: 工作服事平衡 | Session III: 家庭 |
+| 时间/地点：1-5:45pm | Session I: 工作<br>CAC 121 | Session II: 工作服事平衡<br>CAC 123 | Session III: 家庭<br>CAC 204 |
 |---|---|---|---|
 | 1:00-2:20pm | I.1: Tenure申请（工作，人际关系，科研，教学）- 王勉教授（UCSB） | II.1: 学生事工 - 王有芬牧师 | III.1: 找到另一半 - 陈军教授（Purdue） |
 | 2:30-2:45pm | Break | Break | Break |
