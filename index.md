@@ -54,13 +54,14 @@ Join us for the **CCFN 2026 Retreat**, a weekend of worship, fellowship, teachin
 |---|---|
 | **时间** | Friday, June 12, 2026 - Sunday, June 14, 2026 |
 | **地点** | [Pepperdine University](https://www.google.com/maps/search/?api=1&query=Pepperdine%20University) |
-| **Main Program Location** | HAWC |
+| **Main Program Location** | [HAWC](https://www.google.com/maps/search/?api=1&query=HAWC%20Pepperdine%20University) |
 | **主题** | 进入 |
 
 ---
 
 ## Latest Updates
 
+- The registration desk is located at the [HAWC entrance](https://www.google.com/maps/search/?api=1&query=HAWC%20Pepperdine%20University).
 - [Check-in instructions]({{ "/check-in/" | relative_url }}) are now available, including parking passes, maps, and logistics information.
 - 需要Carpool或者可以提供Carpool的弟兄姊妹朋友们，请使用这个[Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeM5Pw6EkmJeoLwOkkT2bn8_IACLedeCxBUv238t9ZZ7cH1hQ/viewform?usp=dialog)来注册您的信息。
 
@@ -90,7 +91,7 @@ Join us for the **CCFN 2026 Retreat**, a weekend of worship, fellowship, teachin
 
 Program details from the retreat schedule:
 
-**Main program location:** HAWC
+**Main program location:** [HAWC](https://www.google.com/maps/search/?api=1&query=HAWC%20Pepperdine%20University)
 
 | Friday, June 12 | Program | Saturday, June 13 | Program | Sunday, June 14 | Program |
 |---|---|---|---|---|---|
@@ -119,7 +120,7 @@ Program details from the retreat schedule:
 
 Saturday afternoon workshop sessions:
 
-| 时间/地点：1-5:45pm | Session I: 工作<br>CAC 121 | Session II: 工作服事平衡<br>CAC 123 | Session III: 家庭<br>CAC 204 |
+| 时间/地点：1-5:45pm | Session I: 工作<br>[CAC 121](https://www.google.com/maps/search/?api=1&query=CAC%20121%20Pepperdine%20University) | Session II: 工作服事平衡<br>[CAC 123](https://www.google.com/maps/search/?api=1&query=CAC%20123%20Pepperdine%20University) | Session III: 家庭<br>[CAC 204](https://www.google.com/maps/search/?api=1&query=CAC%20204%20Pepperdine%20University) |
 |---|---|---|---|
 | 1:00-2:20pm | I.1: Tenure申请（工作，人际关系，科研，教学）- 王勉教授（UCSB） | II.1: 学生事工 - 王有芬牧师 | III.1: 找到另一半 - 陈军教授（Purdue） |
 | 2:30-2:45pm | Break | Break | Break |
