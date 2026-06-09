@@ -120,7 +120,7 @@ Program details from the retreat schedule:
 
 Saturday afternoon workshop sessions:
 
-| 时间/地点：1-5:45pm | Session I: 工作<br>[CAC 121](https://www.google.com/maps/search/?api=1&query=CAC%20121%20Pepperdine%20University) | Session II: 工作服事平衡<br>[CAC 123](https://www.google.com/maps/search/?api=1&query=CAC%20123%20Pepperdine%20University) | Session III: 家庭<br>[CAC 204](https://www.google.com/maps/search/?api=1&query=CAC%20204%20Pepperdine%20University) |
+| 时间/地点：1-5:45pm | Session I: 工作<br>[CAC 121](https://www.google.com/maps/search/?api=1&query=CAC%20Pepperdine%20University) | Session II: 工作服事平衡<br>[CAC 123](https://www.google.com/maps/search/?api=1&query=CAC%20Pepperdine%20University) | Session III: 家庭<br>[CAC 204](https://www.google.com/maps/search/?api=1&query=CAC%20Pepperdine%20University) |
 |---|---|---|---|
 | 1:00-2:20pm | I.1: Tenure申请（工作，人际关系，科研，教学）- 王勉教授（UCSB） | II.1: 学生事工 - 王有芬牧师 | III.1: 找到另一半 - 陈军教授（Purdue） |
 | 2:30-2:45pm | Break | Break | Break |
