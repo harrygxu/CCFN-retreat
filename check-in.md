@@ -48,7 +48,7 @@ body {
 ## Check-In
 
 - **Check-In Time:** All group check-ins begin at 3 PM unless a different time has been previously approved by the office.
-- **Obtaining Keys:** You can either call the office at 310.506.4264 to schedule a time for employees to drop off the keys, or pick them up at the office in Eden Hall (21).
+- **Obtaining Keys:** We will hand out the dorm keys at the registration desk in front of HAWC.
 
 ## Check-Out
 
