@@ -55,7 +55,7 @@ body {
 - **Check-Out Time:** All group check-outs must be completed by 11 AM unless a different time has been previously approved by the office.
 - **Room Clean-Up:** Please ensure all items are removed from the mini-fridges and disposed of properly. Additionally, make sure no trash is left behind in the rooms or refrigerators. An excessive cleaning fee may apply if these areas are not properly cleaned.
 - **Linen Collection:** Kindly strip the linens from the beds and place them in the suite's living room area. Remove pillowcases from the pillows, and do not bag any of the linens.
-- **Returning Keys:** The final step in your check-out process is to return your keys. You can either call the office at 310.506.4264 to schedule a pick-up time or drop the keys off at the office located in Eden Hall (21).
+- **Returning Keys:** The final step in your check-out process is to return your keys. Bring your keys to HAWC and we will collect all keys from there.
 
 ## Parking Passes
 
